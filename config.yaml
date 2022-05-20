@@ -1,7 +1,7 @@
-baseURL: https://dehsi2021.netlify.app/
+baseURL: https://dehsi2022.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
-title: Digital Education Hub Summer Institute 2021
+title: Digital Education Hub Summer Institute 2022
 theme: cupper-hugo-theme
 enableGitInfo: true
 
@@ -42,12 +42,33 @@ menu:
     - name: Background
       url: /background/
       weight: 2
-    - name: Day 1
-      url: /day1/
+    - name: Session 1
+      url: /session1/
       weight: 3
-    - name: Day 2
-      url: /day2/
+    - name: Session 2
+      url: /session2/
       weight: 4
+    - name: Session 3
+      url: /session3/
+      weight: 5
+    - name: Session 4
+      url: /session4/
+      weight: 6
+    - name: Session 5
+      url: /session5/
+      weight: 7
+    - name: Session 6
+      url: /session6/
+      weight: 8
+    - name: Session 7
+      url: /session7/
+      weight: 9
+    - name: Session 8
+      url: /session8/
+      weight: 10
+    - name: Session 9
+      url: /session9/
+      weight: 11
 
 markup:
   defaultMarkdownHandler: goldmark
