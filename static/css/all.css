@@ -4618,9 +4618,12 @@ readers do not read off random characters that represent icons */
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
   
+/*
+ * Top Right Bottom Left
+ */
 .align-left {
     float: left;
-	padding: 0 20px 20px 0;
+	padding: 0 20px 0 0;
 }
 
 .align-right {

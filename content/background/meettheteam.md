@@ -23,7 +23,7 @@ Derrick Slack is the Online Teacher Engagement Specialist for the Digital Educat
 Akaash is a first year PhD student in the Urban Education Studies program. He works as a graduate assistant for the Digital Education Hub and this year he has mainly been working with the community caucus.
 
 ## Dr. Cristina Santamaría Graff
-{{< figure src="/images/headshots/CristinaSantamariaGraffheadshot.jpeg" width="128px" class="align-left">}}
+{{< figure src="/images/headshots/CristinaSantamaríaGraffheadshot.jpeg" width="128px" class="align-left">}}
 
 Cristina Santamaría Graff, Ph.D. is an Associate Professor of Special Education in the Urban Teacher Education Department at IUPUI. She is a Co-Principal Investigator on the DEH Team and brings her experience working with families of children with dis/abilities and community engagement to this project.
 
