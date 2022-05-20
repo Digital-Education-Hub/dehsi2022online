@@ -1,5 +1,6 @@
 +++
 title = "Session 1"
+weight = 6
 +++
 
 ## Keynote - [Aster Bekele](https://dehsi2022.netlify.app/background/meettheteam/#aster-bekele)
