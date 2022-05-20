@@ -13,8 +13,6 @@ This session includes speaker **Aster Bekele**, who will interrogate the institu
 
 This session activity is intended to help prime participants to the concepts and ideas that will be explored during the Summer Institute.  Italso helps form a baseline of the rich ideas that we share and bring to this space.
 
-### 1:00 - 1:15 | Break
-
 ### 1:15 - 2:00 | Expo/Poster Session
 
 This will work like a professional show and tell. During this session there will be six to eight presenters talking about a program they are a part of that positively impacts the Indianapolis community. Most presenters will present on a program that is related to STEM. 
@@ -36,8 +34,6 @@ The goal of this activity is to design a story quilt that builds and cultivates 
 ### 12:05 - 12:50 | How STEM connects with Careers
 
 This session explores the realities and possibilities of STEM careers that are embedded in communities. We will map out where we are now and where we want to go with jobs that use STEM and serve communities. We’ll also identify the “chutes and ladders” of getting there.
-
-### 12:50 - 1:30 | Break
 
 ### 1:30 - 2:15 | How STEM connects with Classroom
 
