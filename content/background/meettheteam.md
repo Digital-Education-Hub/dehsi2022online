@@ -4,8 +4,7 @@ weight = 5
 +++
 
 
-<img style="float: left;" src="/images/headshots/AsterBekele.jpg", alt="Aster Bekele", width="128">
-![alt text](images/headshots/AsterBekele.jpg)
+<img src="{{<baseurl>}}/images/headshots/AsterBekele.jpg", height="128", width="128">
 ## Aster Bekele
 
 Long before the word “Asset Based” became everyday vocabulary, Aster Bekele was educated by a 4th grader in the 2004-2005 school year on how to start Asset Based STEAM Education. Based on this principle, she founded Felege Hiywot Center (FHC), which is a Youth Led agriculture-based STEAM program.  Since her background is in Chemistry, she made Agriculture based partnership to be a priority.  Starting with her co-workers at Eli Lilly and Co, she established partnerships with Purdue University Extension Marion County, Purdue College of Agriculture, Center for Earth and Environmental Science, Major Tool and Machine, Farm Bureau and many other community organizations and individual volunteers.
@@ -14,8 +13,7 @@ She talks about her complete transformation in using Scientific Theory in everyd
 
 This Scientific Theory Based Framework, initiated and implemented with youth as partners has been FHC’s mission since its inception in 2004.  She believes the implementation of this Framework into the existing education model, allows especially minority youth to succeed in higher levels of education as well as discover their full potential as adults.
 
-<img style="float: left;" src="/images/headshots/DerrickSlack.jpg", alt="Derrick Slack", width="128">
-<img src="{{<baseurl>}}/images/headshots/DerrickSlack.jpg">
+<img src="{{<baseurl>}}/images/headshots/DerrickSlack.jpg", height="128", width="128">
 ## Derrick Slack
 
 Derrick Slack is the Online Teacher Engagement Specialist for the Digital Education Hub. He received a BA from Indiana University, Master’s from Marian University, and is currently pursuing an Education Doctorate in Organizational Leadership at Marian University. He taught Social Studies for over 20 years, working in New York City, Jersey City, Indianapolis, and Ghana, West Africa.
