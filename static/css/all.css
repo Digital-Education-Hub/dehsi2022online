@@ -4628,4 +4628,10 @@ readers do not read off random characters that represent icons */
 
 .align-right {
     float: right;
+	padding: 5px 0 0 20px;
+}
+
+.align-center {
+    float: center;
+	padding: 5px 0 5 px 0;
 }
