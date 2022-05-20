@@ -4,7 +4,7 @@ weight = 5
 +++
 
 
-{{< figure src="/images/headshots/AsterBekele.jpg" width="128px" class="align-left">}}
+{{< figure src="/images/headshots/AsterBekele.jpg" width="64px" class="align-left">}}
 ## Aster Bekele
 
 Long before the word “Asset Based” became everyday vocabulary, Aster Bekele was educated by a 4th grader in the 2004-2005 school year on how to start Asset Based STEAM Education. Based on this principle, she founded Felege Hiywot Center (FHC), which is a Youth Led agriculture-based STEAM program.  Since her background is in Chemistry, she made Agriculture based partnership to be a priority.  Starting with her co-workers at Eli Lilly and Co, she established partnerships with Purdue University Extension Marion County, Purdue College of Agriculture, Center for Earth and Environmental Science, Major Tool and Machine, Farm Bureau and many other community organizations and individual volunteers.
