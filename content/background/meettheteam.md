@@ -53,6 +53,7 @@ Dr. Paula Magee is a Clinical Professor in the School of Education at IUPUI and 
 Alexandria Fox is an Instructional Designer for the Digital Education Hub Well Rounded Course Access project. In this role, she provides support and guidance to faculty in both individual and group settings regarding instructional support and pedagogical practice for online courses. Throughout her career in education, she has worked to support the creation of inclusive educational experiences for students from diverse backgrounds and reduce barriers to achievement in education.
 
 ## Idalia T. Wilmoth
+{{< figure src="/images/headshots/IdaliaWilmoth.jpg" width="128px" class="align-left">}}
 
 Idalia T. Wilmoth is a Ph.D. Candidate in Urban Education Studies at Indiana University Purdue University Indianapolis.  She currently serves as graduate assistant for the community-engaged research for the Digital Education Hub (DEH) for Rigorous Remote Learning with Communities at IUPUI (Indiana University Purdue University Indianapolis). She also is an affiliate with the Center for Africana Studies and Culture. Ms. Wilmoth’s transdisciplinary research agenda draws from multiple strands of Black thought such as African Diaspora theories, Afro-Latinx Studies, the Caribbean, and transnational dialogues.
 
