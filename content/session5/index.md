@@ -9,6 +9,7 @@ title = "How STEM Connects with Culture"
 The goal of this activity is to design a story quilt that builds and cultivates your identity as a scientist. This includes learning about scientists who come from diverse backgrounds; then you will learn how to make and use sustainable dyes to color fabric for the quilt.
 
 **Activities** 
+
 *Step 1: What Are Double Dutch Story Quilts?*
 
 This activity is inspired by Faith Ringgold, an African American artist who was born in 1930 in Harlem, New York City, and is best known for her large, painted story quilts.

@@ -11,10 +11,13 @@ This session explores the realities and possibilities of STEM careers that are e
 **Activities**
 
 *Word Associations with STEM Careers*
-	* Participants will collaboratively create a word cloud by contributing words that they associate with STEM careers. They will contribute the words into a Qualtrics survey which can generate a word cloud as a data visualization.
+
+* Participants will collaboratively create a word cloud by contributing words that they associate with STEM careers. They will contribute the words into a Qualtrics survey which can generate a word cloud as a data visualization.
 
 *Photo Problem Posing*
-	* Participants as a whole group will be shown different photos of “jobs in process” (maybe 3) in a slideshow and asked the question, "Where are the possibilities for STEM?". We will do a brief discussion for each photo, and then each participant will write a description of what they want STEM Careers to look like into Qualtrics.
+
+* Participants as a whole group will be shown different photos of “jobs in process” (maybe 3) in a slideshow and asked the question, "Where are the possibilities for STEM?". We will do a brief discussion for each photo, and then each participant will write a description of what they want STEM Careers to look like into Qualtrics.
 
 *Chutes, Ladders, and Intermediate Squares*
-	* Participants in small groups will design a “Chutes and Ladders” gameboard going from "where we are" (starting square) to "where we want to be" (ending square). They will identify ladders (opportunities), chutes (barriers), and some of the stages that fall in between. Each group will receive a template slide deck and fill in the appropriate text boxes.
+
+* Participants in small groups will design a “Chutes and Ladders” gameboard going from "where we are" (starting square) to "where we want to be" (ending square). They will identify ladders (opportunities), chutes (barriers), and some of the stages that fall in between. Each group will receive a template slide deck and fill in the appropriate text boxes.
