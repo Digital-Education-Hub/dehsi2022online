@@ -3,7 +3,7 @@ title = "Expo/Poster Session"
 weight = 6
 +++
 
-## Expo/Poster Session - [Akaash Arora](https://dehsi2022.netlify.app/background/meettheteam/#akaash-arora)
+### Expo/Poster Session - [Akaash Arora](https://dehsi2022.netlify.app/background/meettheteam/#akaash-arora)
 
 For the proper development of a comprehensive and engaging guidebook, Alex, Kelly, and Ryan are asking for the following information to be inserted into the appropriate folder in Teams.  It would be nearly impossible to provide TOO MUCH information. We can parse through everything you provide to find what we need. 
 Unless noted, any format is okay. 

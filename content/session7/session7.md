@@ -3,7 +3,7 @@ title = "How STEM Connects with Classrooms"
 weight = 6
 +++
 
-## How STEM Connects with Classrooms - [Dr, Craig Willey](https://dehsi2022.netlify.app/background/meettheteam/#dr-craig-willey), [Dr. Paula Magee](https://dehsi2022.netlify.app/background/meettheteam/#dr-paula-magee), and [Alexandria Fox](https://dehsi2022.netlify.app/background/meettheteam/#alexandria-fox)
+### How STEM Connects with Classrooms - [Dr, Craig Willey](https://dehsi2022.netlify.app/background/meettheteam/#dr-craig-willey), [Dr. Paula Magee](https://dehsi2022.netlify.app/background/meettheteam/#dr-paula-magee), and [Alexandria Fox](https://dehsi2022.netlify.app/background/meettheteam/#alexandria-fox)
 
 For the proper development of a comprehensive and engaging guidebook, Alex, Kelly, and Ryan are asking for the following information to be inserted into the appropriate folder in Teams.  It would be nearly impossible to provide TOO MUCH information. We can parse through everything you provide to find what we need. 
 Unless noted, any format is okay.

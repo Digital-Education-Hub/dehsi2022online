@@ -3,7 +3,7 @@ title = "Reflection Session"
 weight = 6
 +++
 
-## Reflection Session - [Derrick Slack](https://dehsi2022.netlify.app/background/meettheteam/#derrick-slack)
+### Reflection Session - [Derrick Slack](https://dehsi2022.netlify.app/background/meettheteam/#derrick-slack)
 
 1. Introduction
 	a. Good morning, I am Derrick Slack the Online Teacher Engagement Specialist with the Digital Education Hub

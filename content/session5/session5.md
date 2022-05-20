@@ -3,9 +3,10 @@ title = "How STEM Connects with Culture"
 weight = 6
 +++
 
-## How STEM Connects with Culture - [Dr. Ted Hall](https://dehsi2022.netlify.app/background/meettheteam/#dr-ted-hall)
+### How STEM Connects with Culture - [Dr. Ted Hall](https://dehsi2022.netlify.app/background/meettheteam/#dr-ted-hall)
 
 **Double Dutch Story Quilts**
+
 Story Quilt consists of pictures, sound, scents and textures that are used to tell multiple stories. You make a story quilt by hand either on your own or with others to tell a story of a moment, an event, a feeling that is important to you. 
 
 The goal of this activity is to design a story quilt that builds and cultivates your identity as a scientist. This includes learning about scientists who come from diverse backgrounds; then you will learn how to make and using sustainable dyes to color fabric for the quilt.
@@ -13,6 +14,7 @@ The goal of this activity is to design a story quilt that builds and cultivates 
 Quilts encode Indigenous mathematical ideas, social messages, and other sign systems for turning patterns into symbolic meaning. Scholars call these quilt codes “heritage algorithms”. During the underground railroad, African American women recycled hand me down cloths as a means of communication and survival. They designed their quilts to accommodate the scraps and rags which were available to them. The women designers implemented signs and symbols into their quilts with hidden meanings. They used these materials and anything they could get their hands on to piece quilts.
 
 **Culture**
+
 The ways communities enact tools, practices, vernaculars and language. Culture is an expression of identity. Culture reflects the art and politics of communities. 
 *Reappropriation* or *repurposing* or the cultural process by which culturally marginalized ethnic groups reclaim artifacts from dominant culture and the environment
 
