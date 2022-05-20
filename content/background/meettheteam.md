@@ -70,7 +70,3 @@ Kelly Russo is an instructional designer for the Digital Education Hub for Rigor
 ## Online Version
 
 Made with {{< fa "heart" >}} and {{< fa "coffee" >}} by **Jeremy F Price** and **Alex Waclawik** using the [Hugo](https://gohugo.io/) theme [Cupper](https://themes.gohugo.io/cupper-hugo-theme/) by [Zachary Betz](https://zwbetz.com/). Deployed to [Netlify](https://www.netlify.com/), content in [Github](https://github.com/jeremyfprice/dehsi2021online).
-
-## Citation
-
-Santamaría Graff, C., & Waechter-Versaw, A. (2021). Digital Education Hub for Rigorous Learning with Communities, Summer Institute 2022. Interactive Guide. The DEH Online Summer Institute: June 14 - 15, 2022.

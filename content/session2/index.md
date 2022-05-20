@@ -1,8 +1,8 @@
 +++
-title = "Session 2"
+title = "Reflection Session"
 +++
 
-### Reflection Session - [Derrick Slack](https://dehsi2022.netlify.app/background/meettheteam/#derrick-slack)
+### Presented By [Derrick Slack](https://dehsi2022.netlify.app/background/meettheteam/#derrick-slack)
 
 1. Introduction
 	a. Good morning, I am Derrick Slack the Online Teacher Engagement Specialist with the Digital Education Hub

@@ -1,9 +1,8 @@
 +++
 title = "How STEM Connects with Liberation"
-weight = 6
 +++
 
-### How STEM Connects with Liberation - [Idalia Wilmoth](https://dehsi2022.netlify.app/background/meettheteam/#idalia-t-wilmoth) and [Akaash Akora](https://dehsi2022.netlify.app/background/meettheteam/#akaash-arora
+### Presented By [Idalia Wilmoth](https://dehsi2022.netlify.app/background/meettheteam/#idalia-t-wilmoth) and [Akaash Akora](https://dehsi2022.netlify.app/background/meettheteam/#akaash-arora
 
 Title for Session: Hidden Liberation: Do the Arts Belong in STEM? 
 Summary: For centuries, the arts and sciences have been interwoven. Minoritized populations and disenfranchised communities have made critical contributions to the STEAM field that has shaped our world. However, their path to STEAM education and achievement has been historically limited by systemic racism and oppression. Thus, this session is to understand the power of the arts, and how we can work to make a change in our classrooms, schools, and greater communities to recognize and implement STEAM education. 

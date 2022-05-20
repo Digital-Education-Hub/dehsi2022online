@@ -1,9 +1,8 @@
 +++
 title = "How STEM Connects with Culture"
-weight = 6
 +++
 
-### How STEM Connects with Culture - [Dr. Ted Hall](https://dehsi2022.netlify.app/background/meettheteam/#dr-ted-hall)
+### Presented By [Dr. Ted Hall](https://dehsi2022.netlify.app/background/meettheteam/#dr-ted-hall)
 
 **Double Dutch Story Quilts**
 
