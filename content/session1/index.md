@@ -1,6 +1,5 @@
 +++
-title = "Keynote"
-weight = 6
+title = "Session 1"
 +++
 
 ### Keynote - [Aster Bekele](https://dehsi2022.netlify.app/background/meettheteam/#aster-bekele)
