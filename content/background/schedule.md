@@ -1,5 +1,5 @@
 +++
-title = "7. Schedule"
+title = "6. Schedule"
 weight = 1
 +++
 

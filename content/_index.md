@@ -5,13 +5,11 @@ title = "Digital Education Hub Summer Institute 2022"
 
 ![Digital Education Summer Institute Logo](/images/dehsi2021.png)
 
-Welcome to the **Digital Education Hub Summer Institute Online Workbook**.
+Welcome to the Digital Education Hub Summer Institute.
 
-This website is the online version of the printed workbook for the DEH Summer Institute. This is also where you will be able to enter in your responses from your workbook. You can either enter your responses in directly into the corresponding activity or type it over from your written notes from your printed workbook.
+This website will be used as a guide throughout the sessions that you will be participating in over the next couple of days. It is meant to document your thoughts as well as provide information about presenters, key concepts, and activities. We ask that you follow along with the guidebook while participating in corresponding sessions.
 
-The website is set up to mirror the structure of the workbook. Use the navigation items to move through the workbook.
-
-We look forward to working with you during the Summer Institute! 
+We look forward to collaborating throughout the Summer Institute and beyond!
 
 ## How To Use This Online Workbook
 

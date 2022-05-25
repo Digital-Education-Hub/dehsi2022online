@@ -10,8 +10,7 @@ For centuries, the arts and sciences have been interwoven. Minoritized populatio
 
 **Activities**
 
-1. Illustrating Liberation. Using a google search engine, find paintings, sculptures, graffiti, or cultural artifacts describing what liberation looks like to you. Then, define what liberation is?
-2. Indianapolis Protest Art & Protest Art of 2020. explain the importance of art as a form of resistance and community-building in times of struggle.
-3. Digital Archival.
+*Current Realities: Liberating Dialogue*
+* Participants will answer the following question regarding their personal experience, reflections, and overall thoughts sharing how they feel about STEM, Liberation, and the Arts. Briefly share with the group and record their thoughts and feelings in their summer institute guidebook.
 
 **Materials**
