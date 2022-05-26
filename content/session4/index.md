@@ -10,5 +10,5 @@ The idea of third space draws from postcolonial sociolinguistics theory and prov
 
 **Activities**
 
-*“Blooming Through the Mud”: Applying Third Space in Educational Contexts *
+*Blooming Through the Mud: Applying Third Space in Educational Contexts*
 * Participants read two case studies that showcase “2 existing truths”. After reading the case studies, facilitators lead a discussion about one of the case studies using a Vent Diagram. Following this discussion, participants participate in a breakout session where they add to a Vent Diagram on Google Slides and discuss “truths”, “tensions”, and “ways forward” – answering the overarching question: How do we bloom through the mud in seemingly challenging moments?

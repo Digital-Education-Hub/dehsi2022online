@@ -9,6 +9,9 @@ weight = 5
 Dr. Jeremy Price (he/him/his) is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the Digital Education Hub for Rigorous Remote Learning with Communities. Dr. Price also serves as the Primary Investigator and Project Director for the nationwide Community Studies of Antisemitism In Schools (CSAIS) project. As a public scholar-advocate, Dr. Price is invested in using his experiences and expertise to engage and build capacity and capital in educational settings for marginalized and minoritized youth and communities to build, strengthen, and sustain an inclusive and just democratic project.
 
 ## Dr. Brooke Moreland
+{{< figure src="/images/headshots/BrookeMoreland.png" width="128px" class="align-left">}}
+
+Brooke Moreland currently works as a higher education administrator at the Indiana University School of Education- IUPUI. She serves as the Associate Director and Project Manager for the Digital Education Hub (DEH) for Rigorous Remote Learning with Communities as part of the Federal CARES Act response through the Indiana Governor’s Emergency Education Relief Fund and the Indiana Department of Education. In this role, she leads the instructional design and research efforts of online professional development modules for educators utilizing the principles of adult learning, critical race theory, and sociocultural learning theories to address the needs of Pre-K-12 learners during the pandemic.
 
 ## Dr. Ted Hall
 {{< figure src="/images/headshots/TedHall.jpg" width="128px" class="align-left">}}
@@ -16,7 +19,7 @@ Dr. Jeremy Price (he/him/his) is Assistant Professor of Technology, Innovation, 
 Dr. Ted Hall is the Assistant Director of Community Engagement for Digital Education Hub. He is broadly trained as an interdisciplinary and transdisciplinary urban educator. Dr. Hall works rigorously to intersect his training in urban education, with critical pedagogy, ethnic studies, new media, and community engagement. Dr. Hall strives to bring a commitment toward liberatory practices rooted in educational transformation and social justice.  His position as an urban educator means that he situates knowledge-making in urban classrooms, with youth of color, and amongst working-class, urban communities as a scholarly space equivalent to and as critical as any traditional arena and venue in which academics do their work. Throughout Dr. Hall’s career, he has been committed to teaching urban educators how to create opportunities for urban students to mobilize their identities and cultural resources in the K-12 curriculum.  Dr. Hall’s scholarly interests have involved extensive field research and teaching in Ghana, Nigeria, China, and the United States.
 
 ## Dr. Amy Waechter-Versaw
-{{< figure src="/images/headshots/AmyWaechterVersaw.jpg" width="128px" class="align-left">}}
+{{< figure src="/images/headshots/AmyWaechter-Versaw.jpg" width="128px" class="align-left">}}
 
 Amy Waechter-Versaw, Ph.D. is the Assistant Director of Teacher Learning & School Partnerships for the DEH project. She brings her experiences with teacher learning through sociocultural perspectives of professional development and educator networking and communities of practice to the project.
 
