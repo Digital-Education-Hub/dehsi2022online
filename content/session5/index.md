@@ -19,3 +19,5 @@ The goal of this activity is to design a story quilt that builds and cultivates 
 2. Qualtrics
 3. Zoom Breakout Rooms
 4. Padlet
+
+{{< qualtrics qid="SV_8ph4Q2PQ37x2TTo" name="What are the barriers to achieving your representation of STEM?" >}}
