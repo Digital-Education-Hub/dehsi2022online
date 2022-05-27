@@ -17,6 +17,6 @@ This session explores the realities and possibilities of STEM careers that are e
 	* Participants as a whole group will be shown different photos of “jobs in process” in a slideshow and asked the question, "Where are the possibilities for STEM?". We will do a brief discussion for each photo, and then each participant will write a description of what they want STEM Careers to look like into Qualtrics.
 	{{< qualtrics qid="SV_8IYcPIgbjAzj2Em" name="STEM Careers" >}}
 
-3. Chutes, Ladders, and Intermediate Squares*
+3. *Chutes, Ladders, and Intermediate Squares*
 	* Participants in small groups will design a “Chutes and Ladders” gameboard going from "where we are" (starting square) to "where we want to be" (ending square). They will identify ladders (opportunities), chutes (barriers), and some of the stages that fall in between. Each group will receive a template slide deck and fill in the appropriate text boxes.
 	{{< qualtrics qid="SV_9nJ0Yb2v50Ic7Nc" name="Reflection" >}}

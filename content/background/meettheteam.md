@@ -69,5 +69,4 @@ Idalia T. Wilmoth is a Ph.D. Candidate in Urban Education Studies at Indiana Uni
 Akaash is a first year PhD student in the Urban Education Studies program. He works as a graduate assistant for the Digital Education Hub and this year he has mainly been working with the community caucus.
 
 ## Online Version
-
 Made with {{< fa "heart" >}} and {{< fa "coffee" >}} by **Jeremy F Price** and **Alex Waclawik** using the [Hugo](https://gohugo.io/) theme [Cupper](https://themes.gohugo.io/cupper-hugo-theme/) by [Zachary Betz](https://zwbetz.com/). Deployed to [Netlify](https://www.netlify.com/), content in [Github](https://github.com/jeremyfprice/dehsi2021online).
