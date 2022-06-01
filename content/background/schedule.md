@@ -45,7 +45,4 @@ For centuries, the arts and sciences have been interwoven. Minoritized populatio
 
 ### 3:00 - 4:00 | Reflection Session
 
-* 3:00pm-3:05pm | Introduction - Ryan & Kelly
-* 3:05pm-3:35pm | Panel with four people - Ryan & Kelly
-* 3:35pm-3:50pm | Collective Reflection - Ryan & Kelly
-* 3:50pm-4:00pm | Thank You & Good-Bye - Jeremy
+As we close out the 2022 Summer Institute, we will look to reflect on our time together over the last two days. Throughout our time together, we have engaged in pointed discussions revolving around STEM within the many facets of our lives. This final session will serve as an opportunity to reflect on what we all will return to our communities with.

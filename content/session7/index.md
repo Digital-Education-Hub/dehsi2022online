@@ -14,8 +14,3 @@ In this session, participants will reflect on past & current realities of STEM i
 
 2. **Future:** Participants go to breakout rooms to brainstorm what they would like to see change in the classroom around STEM. They record their answers in Jamboard and then everyone comes back together and they share out with the whole group.
 	* [Jamboard](https://jamboard.google.com/d/1vVaDnyJvUSBfBYW0HEa6C7AkzFm9iQwJoiy7I2vnbDg/edit?usp=sharing)
-
-**Materials**
-1. Paper & Drawing Utensil
-2. Qualtrics
-3. Jamboard
