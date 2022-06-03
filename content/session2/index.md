@@ -10,4 +10,4 @@ This session activity is intended to help prime participants to the concepts and
 
 **Activities**
 1. Reflect on how STEM materializes in your own life, families, neighborhoods, social groups, faith communities, schooling, and after school.
-	* [Where does STEM live? (15 Minutes)](https://www.menti.com/61c6t6mxfo)
+	{{< qualtrics qid="SV_2sD6HCKKdR2S5oO" name="Reflection Activity" >}}
