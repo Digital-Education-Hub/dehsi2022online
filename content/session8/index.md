@@ -11,3 +11,4 @@ For centuries, the arts and sciences have been interwoven. Minoritized populatio
 **Activities**
 1. *Current Realities: Liberating Dialogue*
 	* Participants will answer the following question regarding their personal experience, reflections, and overall thoughts sharing how they feel about STEM, Liberation, and the Arts. Briefly share with the group and record their thoughts and feelings in their Summer Institute Guidebook.
+	{{< qualtrics qid="SV_7NFJk0IyxjhRvL0" name="Current Realities" >}}
