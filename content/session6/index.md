@@ -11,7 +11,6 @@ This session explores the realities and possibilities of STEM careers that are e
 **Activities**
 1. *Word Associations with STEM Careers*
 	* Participants will collaboratively create a word cloud by contributing words that they associate with STEM careers. They will contribute the words into a Qualtrics survey which can generate a word cloud as a data visualization.
-	{{< qualtrics qid="SV_3vK4oTmqjbwdc8e" name="Word Cloud" >}}
 
 2. *Photo Problem Posing*
 	* Participants as a whole group will be shown different photos of “jobs in process” in a slideshow and asked the question, "Where are the possibilities for STEM?". We will do a brief discussion for each photo, and then each participant will write a description of what they want STEM Careers to look like into Qualtrics.
