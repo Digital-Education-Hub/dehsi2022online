@@ -12,5 +12,7 @@ The 2022 Summer Institute with the IU Digital Education Hub (DEH) is an annual e
 We very excited to see everyone and esteem to create a space for learning and understanding.
 
 **Jeremy F. Price, PhD** & **Brooke Moreland, PhD**
+
 [Indiana University School of Education - Indianapolis at IUPUI](https://education.iupui.edu/)
+
 [The Digital Education Hub](https://www.digitaleducationhub.org/)
