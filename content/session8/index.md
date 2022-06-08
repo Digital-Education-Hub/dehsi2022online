@@ -2,7 +2,7 @@
 title = "How STEM Connects with Liberation"
 +++
 
-### Presented By [Idalia Wilmoth](https://dehsi2022.netlify.app/background/meettheteam/#idalia-t-wilmoth) and [Akaash Akora](https://dehsi2022.netlify.app/background/meettheteam/#akaash-arora)
+### Presented By [Idalia Wilmoth](https://dehsi2022.netlify.app/background/meettheteam/#idalia-t-wilmoth)
 
 **Abstract**
 
