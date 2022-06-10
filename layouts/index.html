@@ -3,6 +3,4 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </main>
-  {{with .Site.RegularPages.Next . }}
-  {{.RelPermalink}}
 {{ end }}
