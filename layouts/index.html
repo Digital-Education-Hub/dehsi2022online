@@ -2,6 +2,7 @@
   <main id="main">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-	{{with .Site.RegularPages.Next . }}{{.RelPermalink}}{{end}}
   </main>
+  {{with .Site.RegularPages.Next . }}
+  {{.RelPermalink}}
 {{ end }}
