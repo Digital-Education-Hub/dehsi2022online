@@ -16,9 +16,3 @@ We very excited to see everyone and esteem to create a space for learning and un
 [Indiana University School of Education - Indianapolis at IUPUI](https://education.iupui.edu/)
 
 [The Digital Education Hub](https://www.digitaleducationhub.org/)
-
-
-
-{{% center %}} **[Next](https://dehsi2022.netlify.app/background/meettheteam/)** {{% /center %}}
-
-[Next](https://dehsi2022.netlify.app/background/meettheteam/)
