@@ -2,7 +2,7 @@
 title = "What is Third Space?"
 +++
 
-### Presented By [Dr. Cristina Santamari Graff](https://dehsi2022.netlify.app/background/meettheteam/#dr-cristina-santamar%C3%ADa-graff)
+### Presented By [Dr. Cristina Santamaria Graff](https://dehsi2022.netlify.app/background/meettheteam/#dr-cristina-santamar%C3%ADa-graff)
 
 **Abstract**
 
