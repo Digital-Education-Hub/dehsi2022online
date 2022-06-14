@@ -70,8 +70,8 @@ Akaash is a first year PhD student in the Urban Education Studies program. He wo
 
 ## Online Version
 Made by **Jeremy F Price** and **Alex Waclawik** using the [Hugo](https://gohugo.io/) theme [Cupper](https://themes.gohugo.io/cupper-hugo-theme/) by [Zachary Betz](https://zwbetz.com/). Deployed to [Netlify](https://www.netlify.com/), content in [Github](https://github.com/jeremyfprice/dehsi2021online).
-
-
-
-
-[Next Page](https://dehsi2022.netlify.app/background/whatis/)
+ 
+ 
+ 
+ 
+### [Next Page](https://dehsi2022.netlify.app/background/whatis/)
