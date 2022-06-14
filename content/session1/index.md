@@ -14,3 +14,9 @@ This Scientific Theory Based Framework, initiated and implemented with youth as 
 **Abstract**
 
 In this session, Aster Bekele will interrogate the institution’s role in highlighting community voice in terms of STEM and thinking of the scientific method as a way to combat systemic issues that historically disenfranchised populations of people face. The speaker will also address how STEM situates in her identity and the work that she contributed to the community.
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+### [Next Page](https://dehsi2022.netlify.app/session2/)

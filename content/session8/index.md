@@ -12,3 +12,9 @@ For centuries, the arts and sciences have been interwoven. Minoritized populatio
 1. *Dialogue with Reflection Time*
 	* During this time, the presenter will engage in conversation with attendees through storytelling and providing opportunities for attendees to share how they feel. Attendees are encouraged to record their thoughts and feelings in the survey below.
 	{{< qualtrics qid="SV_7NFJk0IyxjhRvL0" name="Current Realities" >}}
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+### [Next Page](https://dehsi2022.netlify.app/session9/)

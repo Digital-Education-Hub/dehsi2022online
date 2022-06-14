@@ -18,3 +18,9 @@ Repurposing: The repurposing or the cultural process by which culturally margina
 
 2. **Future:** Participants go to breakout rooms to brainstorm what are the barriers and opportunities to achieving the examples. They record their answers in the form below.
 {{< qualtrics qid="SV_8ph4Q2PQ37x2TTo" name="Future" >}}
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+### [Next Page](https://dehsi2022.netlify.app/session6/)

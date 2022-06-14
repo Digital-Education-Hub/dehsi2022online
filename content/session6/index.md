@@ -21,3 +21,9 @@ This session explores the realities and possibilities of STEM careers that are e
 	* Participants in small groups will design a “Chutes and Ladders” gameboard going from "where we are" (starting square) to "where we want to be" (ending square). They will identify ladders (opportunities), chutes (barriers), and some of the stages that fall in between. Each group will receive a template slide deck and fill in the appropriate text boxes.
 	* [Chutes & Ladders Activity](https://docs.google.com/document/d/1aMaRZwgX-zb-RaS8mhwRwpSKTpgjWEtQCj3115GxJtY/edit?usp=sharing)
 	{{< qualtrics qid="SV_9nJ0Yb2v50Ic7Nc" name="Reflection" >}}
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+### [Next Page](https://dehsi2022.netlify.app/session7/)
