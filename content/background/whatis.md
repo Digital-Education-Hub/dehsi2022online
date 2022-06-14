@@ -22,8 +22,14 @@ The Digital Education Hub seeks to meet the challenge of remote learning in cont
 4. **Support Educator Self-Care:** Provide educators with the tools to address the new emotional, social, and physical challenges faced during remote teaching.
 
 5. **Prepare Remote-Ready Future Teachers:** Ensure that future teachers entering the field are ready to implement equitable and inclusive teaching remotely in the face of unforeseen circumstances.
- 
- 
- 
- 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### [Next Page](https://dehsi2022.netlify.app/background/throughlines/)

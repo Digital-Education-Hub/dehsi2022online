@@ -6,8 +6,14 @@ weight = 3
 ![A graphic representation of the Digital Education Hub Throughlines](/images/throughlines_overall.png)
 
 {{< throughlines include="empowering, coalition, equitable, multiple, technology, learning" >}}
- 
- 
- 
- 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### [Next Page](https://dehsi2022.netlify.app/background/agreements/)
