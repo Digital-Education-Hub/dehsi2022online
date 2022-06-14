@@ -13,7 +13,7 @@ In this session, participants will reflect on past & current realities of STEM i
 {{< qualtrics qid="SV_8c88ThnY85IvsPQ" name="Current Realities" >}}
 
 2. **Future:** Participants go to breakout rooms to brainstorm what they would like to see change in the classroom around STEM. They record their answers in Jamboard and then everyone comes back together and they share out with the whole group.
-	* [Jamboard](https://jamboard.google.com/d/1vVaDnyJvUSBfBYW0HEa6C7AkzFm9iQwJoiy7I2vnbDg/edit?usp=sharing)
+	* <a href="https://jamboard.google.com/d/1vVaDnyJvUSBfBYW0HEa6C7AkzFm9iQwJoiy7I2vnbDg/edit?usp=sharing" target="_blank">Jamboard</a>
  
 &nbsp;
  

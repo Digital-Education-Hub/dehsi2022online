@@ -11,7 +11,7 @@ This session is titled, “Blooming Through the Mud” which is a metaphor for t
 **Activities**
 1. *Blooming Through the Mud: Applying Third Space in Educational Contexts*
 	* Participants read two case studies that showcase “2 existing truths”. After reading the case studies, facilitators lead a discussion about one of the case studies using a Vent Diagram. Following this discussion, participants participate in a breakout session where they add to a Vent Diagram and discuss “truths”, “tensions”, and “ways forward” – answering the overarching question: How do we bloom through the mud in seemingly challenging moments?
-	* [Jamboard](https://jamboard.google.com/d/1mY_aX5lukBjoYU2R376gXIUqtQ_tIrTJDlr3QUCb_nE/edit?usp=sharing)
+	* <a href="https://jamboard.google.com/d/1mY_aX5lukBjoYU2R376gXIUqtQ_tIrTJDlr3QUCb_nE/edit?usp=sharing" target="_blank">Jamboard</a>
  
 &nbsp;
  

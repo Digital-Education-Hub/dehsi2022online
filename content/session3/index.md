@@ -11,7 +11,6 @@ This will work like a professional show and tell. During this session there will
 **Activities**
 1. *Presentation Reflection Activity*
 	* Participants will spend the first part of the Expo session watching two presenters talk about a STEM program they run in Indianapolis. After watching the presentations all participants will come together as a big group and do a reflection activity! Participants will reflect on the presentations they saw and then get an opportunity to share their reflection with the whole group! This will be kind of like a jigsaw, so everyone gets to hear a little bit about all the presentations!
-	* [Jamboard](https://jamboard.google.com/d/1rxd9J4gnVmih5rgZJ90TrCJSb_zslt-f3wEimec9HYk/edit?usp=sharing)
 	* <a href="https://jamboard.google.com/d/1rxd9J4gnVmih5rgZJ90TrCJSb_zslt-f3wEimec9HYk/edit?usp=sharing)" target="_blank">Jamboard</a>
 
  
