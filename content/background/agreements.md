@@ -14,3 +14,8 @@ weight = 2
 - **RECIPROCAL:** This is a mutually beneficial space where our actions of giving and receiving lead to the well-being of children/students who are at the center of our intentions.
 
 - **STRIVING:** In this co-created space, I strive to expand and stretch my imagination to be as inclusive and equitable in my thinking for the purpose of contributing my valuable insights to this important endeavor.
+
+
+
+
+[Next Page](https://dehsi2022.netlify.app/background/schedule/)
